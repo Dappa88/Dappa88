@@ -1,4 +1,4 @@
--<h1 align="center">Hi 👋, I'm Dappa precious(Neo)</h1>
+-<h1 align="center">Hi 👋, I'm Neo</h1>
 <h3 align="center">I am a backend developer,with interest in security and all round nice guy</h3>
 
 - 👯 I’m looking to collaborate on **anything fun**
