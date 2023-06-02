@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Node js,python**
 
-- 📫 How to reach me **dappa.precious@gmail.com**
+- 📫 How to reach me **dappa.precious5@gmail.com**
 
 - ⚡ Fun fact **Exit the matrix**
 
