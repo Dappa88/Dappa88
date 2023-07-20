@@ -25,7 +25,7 @@ I actively contribute to the open-source community through various projects and 
 I'm always eager to connect with fellow developers, tech enthusiasts, and potential collaborators. If you'd like to discuss ideas, collaborate on projects, or simply have a chat, feel free to reach out to me through the following channels:
 
 - Email: [dappa.precious5@gmail.com](mailto:dappa.precious5@gmail.com)
-- LinkedIn: [linkedin.com/in/dappa-precious](https://www.linkedin.com/in/dappa-precious)
+- LinkedIn: [linkedin.com/in/dappa-precious](https://www.linkedin.com/in/precious-dappa-962920274/)
 - Twitter: [@dappa_precious](https://twitter.com/dappa_precious)
 - Website:[website](https://dappaprecious.netlify.app/)
 
