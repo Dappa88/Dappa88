@@ -1,24 +1,31 @@
--<h1 align="center">Hi 👋, I'm Neo</h1>
-<h3 align="center">I am a backend developer,with interest in security and all round nice guy</h3>
+# Hello, I'm Dappa Precious!
 
-- 👯 I’m looking to collaborate on **anything fun**
+![GitHub Profile Banner](https://www.example.com/github-profile-banner.png)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Dappa88/](https://github.com/Dappa88/)
+## About Me
 
-- 💬 Ask me about **Node js,python**
+I am a passionate backend developer and a certified API pentester from Apisec. My journey in the world of technology revolves around writing secure and robust code, combating OWASP Top 10 API security vulnerabilities. With a strong foundation in Python and JavaScript for backend development, I specialize in building scalable and efficient systems. My keen interest in databases helps me design data models that are optimized for performance.
 
-- 📫 How to reach me **dappa.precious5@gmail.com**
+## Skills
 
-- ⚡ Fun fact **Exit the matrix**
+- **Backend Development**: I excel in crafting server-side applications using Python and JavaScript, employing best practices and design patterns for maintainable and performant code.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dappa.precious5@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dappa.precious5@gmail.com" height="30" width="40" /></a>
-<a href="https://kaggle.com/dappa77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dappa77" height="30" width="40" /></a>
-</p>
+- **API Security**: My experience as a certified API pentester allows me to identify and mitigate security vulnerabilities, ensuring the utmost security of the APIs I develop.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href = "https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer" > <img src = "https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width = "40" height = "40"/> </a>
+- **Data Structures and Algorithms**: I have a strong grasp of data structures and algorithms, enabling me to optimize the efficiency of my code and solve complex problems with ease.
 
-</p>
+- **Database**: I possess in-depth knowledge of database management systems and can design and optimize databases for various applications.
+
+## GitHub Contributions
+
+I actively contribute to the open-source community through various projects and repositories. My GitHub profile showcases my commitment to sharing knowledge and collaborating with other developers. Feel free to explore my repositories, star your favorites, and provide feedback.
+
+## Get in Touch
+
+I'm always eager to connect with fellow developers, tech enthusiasts, and potential collaborators. If you'd like to discuss ideas, collaborate on projects, or simply have a chat, feel free to reach out to me through the following channels:
+
+- Email: [dappa.precious5@gmail.com](mailto:dappa.precious5@gmail.com)
+- LinkedIn: [linkedin.com/in/dappa-precious](https://www.linkedin.com/in/dappa-precious)
+- Twitter: [@dappa_precious](https://twitter.com/dappa_precious)
+
+Let's create innovative solutions together and make the world of technology a safer and more efficient place! 🚀
