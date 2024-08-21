@@ -10,7 +10,7 @@ I am a passionate backend developer and a certified API pentester from Apisec. M
 
 - **Backend Development**: I excel in crafting server-side applications using Python and JavaScript, employing best practices and design patterns for maintainable and performant code.
 
-- **API Security**: My experience as a certified API pentester allows me to identify and mitigate security vulnerabilities, ensuring the utmost security of the APIs I develop.
+-
 
 - **Data Structures and Algorithms**: I have a strong grasp of data structures and algorithms, enabling me to optimize the efficiency of my code and solve complex problems with ease.
 
